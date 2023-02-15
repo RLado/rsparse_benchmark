@@ -1,1 +1,6 @@
+# Files
+main.o
+Cargo.lock
+
+# Directories
 /target
